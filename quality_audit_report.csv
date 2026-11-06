@@ -1,0 +1,356 @@
+image,crop,disease,leaf_percentage,background_percentage,components,largest_component_percentage,dimensions_match,warnings
+maize common rust,Maize,Common rust,66.57,33.43,2,66.56,True,None
+maize common rust 10,Maize,Common rust,86.91,13.09,1,86.91,True,None
+maize common rust 11,Maize,Common rust,1.79,98.21,1,1.79,True,"Very_small_mask, Small_largest_component"
+maize common rust 12,Maize,Common rust,15.76,84.24,1,15.76,True,None
+maize common rust 13,Maize,Common rust,57.91,42.09,1,57.91,True,None
+maize common rust 14,Maize,Common rust,91.52,8.48,1,91.52,True,Very_large_mask
+maize common rust 15,Maize,Common rust,3.16,96.84,2,2.42,True,"Very_small_mask, Small_largest_component"
+maize common rust 16,Maize,Common rust,95.1,4.9,1,95.1,True,Very_large_mask
+maize common rust 17,Maize,Common rust,54.6,45.4,1,54.6,True,None
+maize common rust 18,Maize,Common rust,75.57,24.43,2,75.57,True,None
+maize common rust 19,Maize,Common rust,68.89,31.11,1,68.89,True,None
+maize common rust 2,Maize,Common rust,60.26,39.74,1,60.26,True,None
+maize common rust 20,Maize,Common rust,45.57,54.43,19,45.41,True,None
+maize common rust 21,Maize,Common rust,0.59,99.41,1,0.59,True,"Very_small_mask, Small_largest_component"
+maize common rust 22,Maize,Common rust,73.48,26.52,2,73.48,True,None
+maize common rust 23,Maize,Common rust,57.18,42.82,1,57.18,True,None
+maize common rust 24,Maize,Common rust,20.99,79.01,1,20.99,True,None
+maize common rust 25,Maize,Common rust,97.43,2.57,1,97.43,True,Very_large_mask
+maize common rust 26,Maize,Common rust,64.87,35.13,1,64.87,True,None
+maize common rust 27,Maize,Common rust,92.55,7.45,1,92.55,True,Very_large_mask
+maize common rust 28,Maize,Common rust,12.53,87.47,1,12.53,True,None
+maize common rust 29,Maize,Common rust,98.67,1.33,2,98.67,True,Very_large_mask
+maize common rust 3,Maize,Common rust,91.67,8.33,1,91.67,True,Very_large_mask
+maize common rust 30,Maize,Common rust,48.62,51.38,2,25.21,True,None
+maize common rust 31,Maize,Common rust,77.29,22.71,4,77.27,True,None
+maize common rust 32,Maize,Common rust,45.71,54.29,1,45.71,True,None
+maize common rust 33,Maize,Common rust,3.03,96.97,1,3.03,True,"Very_small_mask, Small_largest_component"
+maize common rust 34,Maize,Common rust,61.34,38.66,3,61.32,True,None
+maize common rust 35,Maize,Common rust,59.31,40.69,1,59.31,True,None
+maize common rust 36,Maize,Common rust,4.05,95.95,1,4.05,True,"Very_small_mask, Small_largest_component"
+maize common rust 37,Maize,Common rust,72.43,27.57,1,72.43,True,None
+maize common rust 38,Maize,Common rust,36.96,63.04,7,36.95,True,None
+maize common rust 39,Maize,Common rust,28.72,71.28,2,28.72,True,None
+maize common rust 4,Maize,Common rust,75.57,24.43,2,75.57,True,None
+maize common rust 40,Maize,Common rust,91.14,8.86,1,91.14,True,Very_large_mask
+maize common rust 5,Maize,Common rust,98.58,1.42,2,98.58,True,Very_large_mask
+maize common rust 6,Maize,Common rust,40.75,59.25,1,40.75,True,None
+maize common rust 7,Maize,Common rust,81.42,18.58,1,81.42,True,None
+maize common rust 8,Maize,Common rust,100.0,0.0,1,100.0,True,Very_large_mask
+maize common rust 9,Maize,Common rust,89.5,10.5,4,89.5,True,None
+maize gray,Maize,Gray leaf spot,46.25,53.75,1,46.25,True,None
+maize gray 10,Maize,Gray leaf spot,2.19,97.81,2,2.19,True,"Very_small_mask, Small_largest_component"
+maize gray 11,Maize,Gray leaf spot,10.98,89.02,3,10.93,True,None
+maize gray 12,Maize,Gray leaf spot,67.97,32.03,1,67.97,True,None
+maize gray 13,Maize,Gray leaf spot,77.63,22.37,1,77.63,True,None
+maize gray 14,Maize,Gray leaf spot,35.25,64.75,1,35.25,True,None
+maize gray 15,Maize,Gray leaf spot,2.17,97.83,1,2.17,True,"Very_small_mask, Small_largest_component"
+maize gray 16,Maize,Gray leaf spot,66.25,33.75,1,66.25,True,None
+maize gray 17,Maize,Gray leaf spot,63.27,36.73,1,63.27,True,None
+maize gray 18,Maize,Gray leaf spot,63.34,36.66,1,63.34,True,None
+maize gray 19,Maize,Gray leaf spot,46.89,53.11,1,46.89,True,None
+maize gray 2,Maize,Gray leaf spot,68.21,31.79,1,68.21,True,None
+maize gray 20,Maize,Gray leaf spot,34.68,65.32,1,34.68,True,None
+maize gray 21,Maize,Gray leaf spot,82.28,17.72,10,82.23,True,None
+maize gray 22,Maize,Gray leaf spot,70.58,29.42,1,70.58,True,None
+maize gray 23,Maize,Gray leaf spot,80.98,19.02,4,80.63,True,None
+maize gray 24,Maize,Gray leaf spot,3.71,96.29,1,3.71,True,"Very_small_mask, Small_largest_component"
+maize gray 25,Maize,Gray leaf spot,43.99,56.01,6,43.98,True,None
+maize gray 26,Maize,Gray leaf spot,43.99,56.01,6,43.98,True,None
+maize gray 27,Maize,Gray leaf spot,3.84,96.16,1,3.84,True,"Very_small_mask, Small_largest_component"
+maize gray 28,Maize,Gray leaf spot,92.75,7.25,1,92.75,True,Very_large_mask
+maize gray 29,Maize,Gray leaf spot,45.05,54.95,2,45.05,True,None
+maize gray 3,Maize,Gray leaf spot,44.77,55.23,1,44.77,True,None
+maize gray 30,Maize,Gray leaf spot,37.39,62.61,1,37.39,True,None
+maize gray 31,Maize,Gray leaf spot,0.93,99.07,1,0.93,True,"Very_small_mask, Small_largest_component"
+maize gray 32,Maize,Gray leaf spot,47.73,52.27,1,47.73,True,None
+maize gray 33,Maize,Gray leaf spot,1.27,98.73,1,1.27,True,"Very_small_mask, Small_largest_component"
+maize gray 34,Maize,Gray leaf spot,78.67,21.33,3,78.67,True,None
+maize gray 35,Maize,Gray leaf spot,36.93,63.07,1,36.93,True,None
+maize gray 36,Maize,Gray leaf spot,59.44,40.56,1,59.44,True,None
+maize gray 37,Maize,Gray leaf spot,43.73,56.27,1,43.73,True,None
+maize gray 38,Maize,Gray leaf spot,71.85,28.15,1,71.85,True,None
+maize gray 39,Maize,Gray leaf spot,87.47,12.53,1,87.47,True,None
+maize gray 4,Maize,Gray leaf spot,0.79,99.21,1,0.79,True,"Very_small_mask, Small_largest_component"
+maize gray 40,Maize,Gray leaf spot,51.57,48.43,1,51.57,True,None
+maize gray 41,Maize,Gray leaf spot,40.53,59.47,1,40.53,True,None
+maize gray 42,Maize,Gray leaf spot,39.77,60.23,1,39.77,True,None
+maize gray 43,Maize,Gray leaf spot,40.44,59.56,1,40.44,True,None
+maize gray 44,Maize,Gray leaf spot,62.49,37.51,1,62.49,True,None
+maize gray 45,Maize,Gray leaf spot,48.36,51.64,1,48.36,True,None
+maize gray 46,Maize,Gray leaf spot,56.82,43.18,1,56.82,True,None
+maize gray 47,Maize,Gray leaf spot,15.93,84.07,1,15.93,True,None
+maize gray 48,Maize,Gray leaf spot,3.28,96.72,1,3.28,True,"Very_small_mask, Small_largest_component"
+maize gray 49,Maize,Gray leaf spot,40.65,59.35,1,40.65,True,None
+maize gray 5,Maize,Gray leaf spot,0.3,99.7,1,0.3,True,"Very_small_mask, Small_largest_component"
+maize gray 50,Maize,Gray leaf spot,63.25,36.75,1,63.25,True,None
+maize gray 6,Maize,Gray leaf spot,46.38,53.62,1,46.38,True,None
+maize gray 7,Maize,Gray leaf spot,100.0,0.0,1,100.0,True,Very_large_mask
+maize gray 8,Maize,Gray leaf spot,54.02,45.98,1,54.02,True,None
+maize gray 9,Maize,Gray leaf spot,70.27,29.73,6,69.79,True,None
+maize healthy,Maize,Healthy,60.24,39.76,4,60.24,True,None
+maize healthy 10,Maize,Healthy,1.76,98.24,1,1.76,True,"Very_small_mask, Small_largest_component"
+maize healthy 11,Maize,Healthy,35.11,64.89,1,35.11,True,None
+maize healthy 12,Maize,Healthy,1.83,98.17,1,1.83,True,"Very_small_mask, Small_largest_component"
+maize healthy 13,Maize,Healthy,1.17,98.83,1,1.17,True,"Very_small_mask, Small_largest_component"
+maize healthy 14,Maize,Healthy,0.39,99.61,1,0.39,True,"Very_small_mask, Small_largest_component"
+maize healthy 15,Maize,Healthy,62.98,37.02,7,62.97,True,None
+maize healthy 16,Maize,Healthy,9.84,90.16,5,7.41,True,Very_small_mask
+maize healthy 17,Maize,Healthy,6.79,93.21,1,6.79,True,Very_small_mask
+maize healthy 18,Maize,Healthy,2.44,97.56,1,2.44,True,"Very_small_mask, Small_largest_component"
+maize healthy 19,Maize,Healthy,50.0,50.0,1,50.0,True,None
+maize healthy 2,Maize,Healthy,29.39,70.61,1,29.39,True,None
+maize healthy 20,Maize,Healthy,1.54,98.46,1,1.54,True,"Very_small_mask, Small_largest_component"
+maize healthy 21,Maize,Healthy,1.7,98.3,1,1.7,True,"Very_small_mask, Small_largest_component"
+maize healthy 22,Maize,Healthy,9.82,90.18,1,9.82,True,Very_small_mask
+maize healthy 23,Maize,Healthy,11.17,88.83,1,11.17,True,None
+maize healthy 24,Maize,Healthy,17.53,82.47,2,16.75,True,None
+maize healthy 25,Maize,Healthy,25.64,74.36,4,13.21,True,None
+maize healthy 26,Maize,Healthy,29.39,70.61,1,29.39,True,None
+maize healthy 27,Maize,Healthy,3.26,96.74,1,3.26,True,"Very_small_mask, Small_largest_component"
+maize healthy 28,Maize,Healthy,38.22,61.78,1,38.22,True,None
+maize healthy 29,Maize,Healthy,1.81,98.19,1,1.81,True,"Very_small_mask, Small_largest_component"
+maize healthy 3,Maize,Healthy,8.31,91.69,1,8.31,True,Very_small_mask
+maize healthy 4,Maize,Healthy,9.48,90.52,1,9.48,True,Very_small_mask
+maize healthy 5,Maize,Healthy,36.49,63.51,1,36.49,True,None
+maize healthy 6,Maize,Healthy,44.33,55.67,2,44.16,True,None
+maize healthy 7,Maize,Healthy,8.65,91.35,1,8.65,True,Very_small_mask
+maize healthy 8,Maize,Healthy,1.96,98.04,1,1.96,True,"Very_small_mask, Small_largest_component"
+maize healthy 9,Maize,Healthy,2.97,97.02,1,2.97,True,"Very_small_mask, Small_largest_component"
+maize blight,Maize,Leaf blight,30.24,69.76,8,30.23,True,None
+maize blight 10,Maize,Leaf blight,2.37,97.63,1,2.37,True,"Very_small_mask, Small_largest_component"
+maize blight 11,Maize,Leaf blight,13.37,86.63,1,13.37,True,None
+maize blight 12,Maize,Leaf blight,17.39,82.61,1,17.39,True,None
+maize blight 13,Maize,Leaf blight,25.6,74.4,1,25.6,True,None
+maize blight 14,Maize,Leaf blight,97.91,2.09,1,97.91,True,Very_large_mask
+maize blight 15,Maize,Leaf blight,3.14,96.86,1,3.14,True,"Very_small_mask, Small_largest_component"
+maize blight 16,Maize,Leaf blight,2.56,97.44,1,2.56,True,"Very_small_mask, Small_largest_component"
+maize blight 17,Maize,Leaf blight,60.57,39.43,1,60.57,True,None
+maize blight 18,Maize,Leaf blight,60.57,39.43,1,60.57,True,None
+maize blight 19,Maize,Leaf blight,12.18,87.82,1,12.18,True,None
+maize blight 2,Maize,Leaf blight,74.28,25.72,1,74.28,True,None
+maize blight 20,Maize,Leaf blight,90.37,9.63,1,90.37,True,Very_large_mask
+maize blight 21,Maize,Leaf blight,72.56,27.44,1,72.56,True,None
+maize blight 22,Maize,Leaf blight,42.5,57.5,1,42.5,True,None
+maize blight 23,Maize,Leaf blight,62.15,37.85,2,62.14,True,None
+maize blight 24,Maize,Leaf blight,21.76,78.24,1,21.76,True,None
+maize blight 25,Maize,Leaf blight,37.71,62.29,1,37.71,True,None
+maize blight 26,Maize,Leaf blight,91.5,8.5,1,91.5,True,Very_large_mask
+maize blight 27,Maize,Leaf blight,90.12,9.88,1,90.12,True,Very_large_mask
+maize blight 28,Maize,Leaf blight,13.15,86.85,1,13.15,True,None
+maize blight 29,Maize,Leaf blight,60.99,39.01,1,60.99,True,None
+maize blight 3,Maize,Leaf blight,3.38,96.62,1,3.38,True,"Very_small_mask, Small_largest_component"
+maize blight 30,Maize,Leaf blight,28.72,71.28,2,28.72,True,None
+maize blight 31,Maize,Leaf blight,47.21,52.79,1,47.21,True,None
+maize blight 32,Maize,Leaf blight,90.66,9.34,1,90.66,True,Very_large_mask
+maize blight 33,Maize,Leaf blight,46.25,53.75,1,46.25,True,None
+maize blight 34,Maize,Leaf blight,54.02,45.98,1,54.02,True,None
+maize blight 35,Maize,Leaf blight,68.35,31.65,1,68.35,True,None
+maize blight 36,Maize,Leaf blight,28.41,71.59,1,28.41,True,None
+maize blight 4,Maize,Leaf blight,35.61,64.39,1,35.61,True,None
+maize blight 5,Maize,Leaf blight,34.22,65.78,1,34.22,True,None
+maize blight 6,Maize,Leaf blight,33.88,66.12,4,33.88,True,None
+maize blight 7,Maize,Leaf blight,64.51,35.49,1,64.51,True,None
+maize blight 8,Maize,Leaf blight,47.35,52.65,3,47.32,True,None
+maize blight 9,Maize,Leaf blight,46.38,53.62,1,46.38,True,None
+potato early,Potato,Early blight,10.08,89.92,1,10.08,True,None
+potato early 10,Potato,Early blight,13.22,86.78,1,13.22,True,None
+potato early 11,Potato,Early blight,7.77,92.23,2,7.77,True,Very_small_mask
+potato early 12,Potato,Early blight,38.57,61.43,1,38.57,True,None
+potato early 13,Potato,Early blight,7.05,92.95,1,7.05,True,Very_small_mask
+potato early 14,Potato,Early blight,7.85,92.15,1,7.85,True,Very_small_mask
+potato early 15,Potato,Early blight,8.84,91.16,1,8.84,True,Very_small_mask
+potato early 16,Potato,Early blight,16.78,83.22,2,16.78,True,None
+potato early 17,Potato,Early blight,3.56,96.44,1,3.56,True,"Very_small_mask, Small_largest_component"
+potato early 18,Potato,Early blight,4.16,95.84,1,4.16,True,"Very_small_mask, Small_largest_component"
+potato early 19,Potato,Early blight,27.43,72.57,1,27.43,True,None
+potato early 2,Potato,Early blight,4.67,95.33,1,4.67,True,"Very_small_mask, Small_largest_component"
+potato early 20,Potato,Early blight,59.87,40.13,2,59.87,True,None
+potato early 21,Potato,Early blight,19.15,80.85,13,13.71,True,None
+potato early 22,Potato,Early blight,12.07,87.93,1,12.07,True,None
+potato early 23,Potato,Early blight,1.86,98.14,1,1.86,True,"Very_small_mask, Small_largest_component"
+potato early 24,Potato,Early blight,3.15,96.85,1,3.15,True,"Very_small_mask, Small_largest_component"
+potato early 25,Potato,Early blight,85.08,14.92,13,85.04,True,None
+potato early 26,Potato,Early blight,60.0,40.0,4,59.91,True,None
+potato early 27,Potato,Early blight,3.11,96.89,1,3.11,True,"Very_small_mask, Small_largest_component"
+potato early 28,Potato,Early blight,82.38,17.62,7,82.37,True,None
+potato early 29,Potato,Early blight,2.91,97.09,1,2.91,True,"Very_small_mask, Small_largest_component"
+potato early 3,Potato,Early blight,13.22,86.78,1,13.22,True,None
+potato early 30,Potato,Early blight,4.52,95.48,1,4.52,True,"Very_small_mask, Small_largest_component"
+potato early 31,Potato,Early blight,8.3,91.7,1,8.3,True,Very_small_mask
+potato early 32,Potato,Early blight,3.87,96.13,1,3.87,True,"Very_small_mask, Small_largest_component"
+potato early 33,Potato,Early blight,37.93,62.07,7,22.17,True,None
+potato early 4,Potato,Early blight,82.38,17.62,7,82.37,True,None
+potato early 5,Potato,Early blight,4.16,95.84,1,4.16,True,"Very_small_mask, Small_largest_component"
+potato early 6,Potato,Early blight,69.99,30.01,2,69.67,True,None
+potato early 7,Potato,Early blight,35.32,64.68,2,35.27,True,None
+potato early 8,Potato,Early blight,3.4,96.6,1,3.4,True,"Very_small_mask, Small_largest_component"
+potato early 9,Potato,Early blight,13.62,86.38,1,13.62,True,None
+potato healthy,Potato,Healthy,23.76,76.24,3,22.62,True,None
+potato healthy 10,Potato,Healthy,1.27,98.73,1,1.27,True,"Very_small_mask, Small_largest_component"
+potato healthy 11,Potato,Healthy,2.26,97.74,2,2.26,True,"Very_small_mask, Small_largest_component"
+potato healthy 12,Potato,Healthy,0.53,99.47,1,0.53,True,"Very_small_mask, Small_largest_component"
+potato healthy 13,Potato,Healthy,0.85,99.15,1,0.85,True,"Very_small_mask, Small_largest_component"
+potato healthy 14,Potato,Healthy,33.15,66.85,1,33.15,True,None
+potato healthy 15,Potato,Healthy,5.08,94.92,1,5.08,True,Very_small_mask
+potato healthy 16,Potato,Healthy,20.85,79.15,1,20.85,True,None
+potato healthy 17,Potato,Healthy,6.81,93.19,1,6.81,True,Very_small_mask
+potato healthy 18,Potato,Healthy,1.07,98.93,1,1.07,True,"Very_small_mask, Small_largest_component"
+potato healthy 19,Potato,Healthy,24.23,75.77,2,23.55,True,None
+potato healthy 2,Potato,Healthy,42.84,57.16,1,42.84,True,None
+potato healthy 20,Potato,Healthy,3.95,96.05,2,3.94,True,"Very_small_mask, Small_largest_component"
+potato healthy 21,Potato,Healthy,5.51,94.49,1,5.51,True,Very_small_mask
+potato healthy 22,Potato,Healthy,0.84,99.16,1,0.84,True,"Very_small_mask, Small_largest_component"
+potato healthy 23,Potato,Healthy,23.67,76.33,1,23.67,True,None
+potato healthy 24,Potato,Healthy,25.62,74.38,1,25.62,True,None
+potato healthy 25,Potato,Healthy,75.18,24.82,3,74.47,True,None
+potato healthy 26,Potato,Healthy,6.37,93.63,1,6.37,True,Very_small_mask
+potato healthy 27,Potato,Healthy,12.46,87.54,1,12.46,True,None
+potato healthy 28,Potato,Healthy,5.85,94.15,1,5.85,True,Very_small_mask
+potato healthy 29,Potato,Healthy,60.28,39.72,1,60.28,True,None
+potato healthy 3,Potato,Healthy,4.11,95.89,2,4.11,True,"Very_small_mask, Small_largest_component"
+potato healthy 30,Potato,Healthy,1.65,98.35,1,1.65,True,"Very_small_mask, Small_largest_component"
+potato healthy 31,Potato,Healthy,1.28,98.72,1,1.28,True,"Very_small_mask, Small_largest_component"
+potato healthy 32,Potato,Healthy,2.48,97.52,1,2.48,True,"Very_small_mask, Small_largest_component"
+potato healthy 33,Potato,Healthy,5.02,94.98,1,5.02,True,Very_small_mask
+potato healthy 34,Potato,Healthy,1.45,98.55,1,1.45,True,"Very_small_mask, Small_largest_component"
+potato healthy 4,Potato,Healthy,9.74,90.26,1,9.74,True,Very_small_mask
+potato healthy 5,Potato,Healthy,4.67,95.33,1,4.67,True,"Very_small_mask, Small_largest_component"
+potato healthy 6,Potato,Healthy,2.31,97.69,1,2.31,True,"Very_small_mask, Small_largest_component"
+potato healthy 7,Potato,Healthy,6.55,93.45,1,6.55,True,Very_small_mask
+potato healthy 8,Potato,Healthy,8.86,91.14,1,8.86,True,Very_small_mask
+potato healthy 9,Potato,Healthy,1.97,98.03,1,1.97,True,"Very_small_mask, Small_largest_component"
+potato late,Potato,Late blight,8.58,91.42,1,8.58,True,Very_small_mask
+potato late 10,Potato,Late blight,23.09,76.91,1,23.09,True,None
+potato late 11,Potato,Late blight,8.09,91.91,2,8.08,True,Very_small_mask
+potato late 12,Potato,Late blight,8.3,91.7,1,8.3,True,Very_small_mask
+potato late 13,Potato,Late blight,3.14,96.86,1,3.14,True,"Very_small_mask, Small_largest_component"
+potato late 14,Potato,Late blight,11.64,88.36,1,11.64,True,None
+potato late 15,Potato,Late blight,37.93,62.07,3,29.89,True,None
+potato late 16,Potato,Late blight,41.21,58.79,7,21.45,True,None
+potato late 17,Potato,Late blight,9.7,90.3,1,9.7,True,Very_small_mask
+potato late 18,Potato,Late blight,50.03,49.97,1,50.03,True,None
+potato late 19,Potato,Late blight,10.12,89.88,1,10.12,True,None
+potato late 2,Potato,Late blight,8.88,91.12,1,8.88,True,Very_small_mask
+potato late 20,Potato,Late blight,6.27,93.73,1,6.27,True,Very_small_mask
+potato late 21,Potato,Late blight,8.58,91.42,1,8.58,True,Very_small_mask
+potato late 22,Potato,Late blight,5.32,94.68,1,5.32,True,Very_small_mask
+potato late 23,Potato,Late blight,9.7,90.3,1,9.7,True,Very_small_mask
+potato late 24,Potato,Late blight,0.83,99.17,1,0.83,True,"Very_small_mask, Small_largest_component"
+potato late 25,Potato,Late blight,4.27,95.73,1,4.27,True,"Very_small_mask, Small_largest_component"
+potato late 26,Potato,Late blight,2.89,97.11,1,2.89,True,"Very_small_mask, Small_largest_component"
+potato late 27,Potato,Late blight,14.51,85.49,1,14.51,True,None
+potato late 28,Potato,Late blight,1.59,98.41,1,1.59,True,"Very_small_mask, Small_largest_component"
+potato late 29,Potato,Late blight,53.66,46.34,1,53.66,True,None
+potato late 3,Potato,Late blight,8.61,91.39,2,8.61,True,Very_small_mask
+potato late 30,Potato,Late blight,1.08,98.92,2,0.69,True,"Very_small_mask, Small_largest_component"
+potato late 31,Potato,Late blight,5.15,94.85,1,5.15,True,Very_small_mask
+potato late 32,Potato,Late blight,41.14,58.86,5,41.12,True,None
+potato late 33,Potato,Late blight,17.36,82.64,1,17.36,True,None
+potato late 4,Potato,Late blight,10.3,89.7,2,10.3,True,None
+potato late 5,Potato,Late blight,9.7,90.3,1,9.7,True,Very_small_mask
+potato late 6,Potato,Late blight,11.74,88.26,1,11.74,True,None
+potato late 7,Potato,Late blight,1.31,98.69,1,1.31,True,"Very_small_mask, Small_largest_component"
+potato late 8,Potato,Late blight,3.7,96.3,1,3.7,True,"Very_small_mask, Small_largest_component"
+potato late 9,Potato,Late blight,6.35,93.65,1,6.35,True,Very_small_mask
+tomato bacterial,Tomato,Bacterial spot,37.3,62.7,1,37.3,True,None
+tomato bacterial  10,Tomato,Bacterial spot,8.0,92.0,1,8.0,True,Very_small_mask
+tomato bacterial  11,Tomato,Bacterial spot,27.1,72.9,1,27.1,True,None
+tomato bacterial  12,Tomato,Bacterial spot,48.62,51.38,1,48.62,True,None
+tomato bacterial  13,Tomato,Bacterial spot,4.01,95.99,1,4.01,True,"Very_small_mask, Small_largest_component"
+tomato bacterial  14,Tomato,Bacterial spot,53.45,46.55,4,53.2,True,None
+tomato bacterial  15,Tomato,Bacterial spot,1.07,98.93,1,1.07,True,"Very_small_mask, Small_largest_component"
+tomato bacterial  16,Tomato,Bacterial spot,61.76,38.24,1,61.76,True,None
+tomato bacterial  17,Tomato,Bacterial spot,47.89,52.11,1,47.89,True,None
+tomato bacterial  18,Tomato,Bacterial spot,13.93,86.07,2,13.93,True,None
+tomato bacterial  19,Tomato,Bacterial spot,8.39,91.61,1,8.39,True,Very_small_mask
+tomato bacterial  20,Tomato,Bacterial spot,58.12,41.88,3,58.12,True,None
+tomato bacterial 2,Tomato,Bacterial spot,11.68,88.32,1,11.68,True,None
+tomato bacterial 3,Tomato,Bacterial spot,7.33,92.67,2,4.96,True,"Very_small_mask, Small_largest_component"
+tomato bacterial 4,Tomato,Bacterial spot,49.09,50.91,1,49.09,True,None
+tomato bacterial 5,Tomato,Bacterial spot,76.33,23.67,1,76.33,True,None
+tomato bacterial 6,Tomato,Bacterial spot,33.2,66.8,2,33.2,True,None
+tomato bacterial 7,Tomato,Bacterial spot,5.18,94.82,1,5.18,True,Very_small_mask
+tomato bacterial 8,Tomato,Bacterial spot,35.65,64.35,2,35.65,True,None
+tomato bacterial 9,Tomato,Bacterial spot,34.81,65.19,1,34.81,True,None
+tomato early,Tomato,Early blight,83.27,16.73,1,83.27,True,None
+tomato early 10,Tomato,Early blight,4.15,95.85,1,4.15,True,"Very_small_mask, Small_largest_component"
+tomato early 11,Tomato,Early blight,37.97,62.03,3,19.43,True,None
+tomato early 12,Tomato,Early blight,3.74,96.26,1,3.74,True,"Very_small_mask, Small_largest_component"
+tomato early 13,Tomato,Early blight,47.95,52.05,1,47.95,True,None
+tomato early 14,Tomato,Early blight,36.13,63.87,1,36.13,True,None
+tomato early 15,Tomato,Early blight,58.66,41.34,2,58.66,True,None
+tomato early 16,Tomato,Early blight,32.94,67.06,1,32.94,True,None
+tomato early 17,Tomato,Early blight,57.15,42.85,10,57.0,True,None
+tomato early 18,Tomato,Early blight,59.21,40.79,7,16.58,True,None
+tomato early 19,Tomato,Early blight,37.1,62.9,1,37.1,True,None
+tomato early 2,Tomato,Early blight,76.64,23.36,3,76.64,True,None
+tomato early 20,Tomato,Early blight,17.54,82.46,1,17.54,True,None
+tomato early 3,Tomato,Early blight,41.31,58.69,2,41.31,True,None
+tomato early 4,Tomato,Early blight,80.52,19.48,7,80.51,True,None
+tomato early 5,Tomato,Early blight,85.08,14.92,1,85.08,True,None
+tomato early 6,Tomato,Early blight,63.71,36.29,3,63.71,True,None
+tomato early 7,Tomato,Early blight,5.57,94.43,1,5.57,True,Very_small_mask
+tomato early 8,Tomato,Early blight,26.52,73.48,2,26.52,True,None
+tomato early 9,Tomato,Early blight,21.99,78.01,1,21.99,True,None
+tomato healthy,Tomato,Healthy,7.8,92.2,1,7.8,True,Very_small_mask
+tomato healthy 10,Tomato,Healthy,2.58,97.42,1,2.58,True,"Very_small_mask, Small_largest_component"
+tomato healthy 11,Tomato,Healthy,7.52,92.48,1,7.52,True,Very_small_mask
+tomato healthy 12,Tomato,Healthy,21.1,78.9,12,21.08,True,None
+tomato healthy 13,Tomato,Healthy,54.21,45.79,4,54.2,True,None
+tomato healthy 14,Tomato,Healthy,12.59,87.41,1,12.59,True,None
+tomato healthy 15,Tomato,Healthy,7.7,92.3,1,7.7,True,Very_small_mask
+tomato healthy 16,Tomato,Healthy,66.93,33.07,1,66.93,True,None
+tomato healthy 17,Tomato,Healthy,7.7,92.3,1,7.7,True,Very_small_mask
+tomato healthy 18,Tomato,Healthy,7.22,92.78,1,7.22,True,Very_small_mask
+tomato healthy 19,Tomato,Healthy,1.79,98.21,2,1.27,True,"Very_small_mask, Small_largest_component"
+tomato healthy 2,Tomato,Healthy,2.01,97.99,1,2.01,True,"Very_small_mask, Small_largest_component"
+tomato healthy 20,Tomato,Healthy,8.13,91.87,2,7.88,True,Very_small_mask
+tomato healthy 3,Tomato,Healthy,2.17,97.83,2,2.17,True,"Very_small_mask, Small_largest_component"
+tomato healthy 4,Tomato,Healthy,12.19,87.81,1,12.19,True,None
+tomato healthy 5,Tomato,Healthy,60.28,39.72,3,60.28,True,None
+tomato healthy 6,Tomato,Healthy,3.96,96.04,1,3.96,True,"Very_small_mask, Small_largest_component"
+tomato healthy 7,Tomato,Healthy,10.39,89.61,1,10.39,True,None
+tomato healthy 8,Tomato,Healthy,29.15,70.85,2,29.15,True,None
+tomato healthy 9,Tomato,Healthy,3.39,96.61,1,3.39,True,"Very_small_mask, Small_largest_component"
+tomato late,Tomato,Late blight,74.39,25.61,1,74.39,True,None
+tomato late 10,Tomato,Late blight,2.16,97.84,1,2.16,True,"Very_small_mask, Small_largest_component"
+tomato late 11,Tomato,Late blight,72.77,27.23,1,72.77,True,None
+tomato late 12,Tomato,Late blight,2.7,97.3,1,2.7,True,"Very_small_mask, Small_largest_component"
+tomato late 13,Tomato,Late blight,23.62,76.38,1,23.62,True,None
+tomato late 14,Tomato,Late blight,77.46,22.54,4,76.52,True,None
+tomato late 15,Tomato,Late blight,3.28,96.72,1,3.28,True,"Very_small_mask, Small_largest_component"
+tomato late 16,Tomato,Late blight,52.17,47.83,1,52.17,True,None
+tomato late 17,Tomato,Late blight,25.78,74.22,1,25.78,True,None
+tomato late 18,Tomato,Late blight,8.77,91.23,1,8.77,True,Very_small_mask
+tomato late 19,Tomato,Late blight,37.91,62.09,1,37.91,True,None
+tomato late 2,Tomato,Late blight,6.68,93.32,1,6.68,True,Very_small_mask
+tomato late 20,Tomato,Late blight,10.42,89.58,2,10.42,True,None
+tomato late 3,Tomato,Late blight,73.94,26.06,1,73.94,True,None
+tomato late 4,Tomato,Late blight,2.16,97.84,1,2.16,True,"Very_small_mask, Small_largest_component"
+tomato late 5,Tomato,Late blight,3.28,96.72,1,3.28,True,"Very_small_mask, Small_largest_component"
+tomato late 6,Tomato,Late blight,28.67,71.33,1,28.67,True,None
+tomato late 7,Tomato,Late blight,24.66,75.34,4,24.66,True,None
+tomato late 8,Tomato,Late blight,37.38,62.62,4,34.37,True,None
+tomato late 9,Tomato,Late blight,54.29,45.71,1,54.29,True,None
+tomato leaf mold,Tomato,Leaf mold,38.59,61.41,7,38.51,True,None
+tomato leaf mold 10,Tomato,Leaf mold,77.99,22.01,1,77.99,True,None
+tomato leaf mold 11,Tomato,Leaf mold,39.95,60.05,3,39.95,True,None
+tomato leaf mold 12,Tomato,Leaf mold,18.31,81.69,2,18.31,True,None
+tomato leaf mold 13,Tomato,Leaf mold,40.15,59.85,1,40.15,True,None
+tomato leaf mold 14,Tomato,Leaf mold,4.55,95.45,1,4.55,True,"Very_small_mask, Small_largest_component"
+tomato leaf mold 15,Tomato,Leaf mold,3.63,96.37,1,3.63,True,"Very_small_mask, Small_largest_component"
+tomato leaf mold 16,Tomato,Leaf mold,61.12,38.88,3,61.12,True,None
+tomato leaf mold 17,Tomato,Leaf mold,10.61,89.39,3,10.61,True,None
+tomato leaf mold 18,Tomato,Leaf mold,82.76,17.24,3,82.76,True,None
+tomato leaf mold 19,Tomato,Leaf mold,50.14,49.86,1,50.14,True,None
+tomato leaf mold 2,Tomato,Leaf mold,54.41,45.59,1,54.41,True,None
+tomato leaf mold 20,Tomato,Leaf mold,76.61,23.39,1,76.61,True,None
+tomato leaf mold 3,Tomato,Leaf mold,34.84,65.16,1,34.84,True,None
+tomato leaf mold 4,Tomato,Leaf mold,52.28,47.72,92,52.04,True,None
+tomato leaf mold 5,Tomato,Leaf mold,52.62,47.38,3,31.55,True,None
+tomato leaf mold 6,Tomato,Leaf mold,9.97,90.03,3,7.71,True,Very_small_mask
+tomato leaf mold 7,Tomato,Leaf mold,75.82,24.18,1,75.82,True,None
+tomato leaf mold 8,Tomato,Leaf mold,7.08,92.92,1,7.08,True,Very_small_mask
+tomato leaf mold 9,Tomato,Leaf mold,43.85,56.15,1,43.85,True,None
